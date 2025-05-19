@@ -1,4 +1,10 @@
-## Hi there 👋
+## Moin moin 👋
+
+🔭 I’m currently learning React ⚛️
+
+# Say hello!
+wade_square_5b@icloud.com
+
 
 <!--
 **jakobm101/jakobm101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
