@@ -13,7 +13,7 @@ Human -- Designer-8/Programmer-4
 
 ## 🤓 Skills so far
 ### 💾 Computer Science
-[![My Skills](https://skillicons.dev/icons?i=express,neovim,nginx,npm,nodejs,obsidian,py,raspberrypi,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,express,neovim,nginx,npm,nodejs,obsidian,py,raspberrypi,vscode)](https://skillicons.dev)
 
 ### 🪬 Visual
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,pr)](https://skillicons.dev)
