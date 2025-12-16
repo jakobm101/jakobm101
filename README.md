@@ -17,13 +17,13 @@ He/Him
 
 ## 🤓 Skills so far
 ### 💾 Computer Science
-[![My Skills](https://skillicons.dev/icons?i=c,express,neovim,nginx,npm,nodejs,obsidian,py,raspberrypi,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,nginx,python,ubuntu)](https://skillicons.dev)
 
 ### 🪬 Visual
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,pr)](https://skillicons.dev)
 
 ### 👾 Basics
-[![My Skills](https://skillicons.dev/icons?i=pnpm,nextjs,react,js,html,css,apple,bash,git,github,gmail,instagram,linux,md,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,express,nodejs,js,html,css,git,github,md,npm,pnpm,obsidian,py,raspberrypi,vim,neovim,vscode,gmail,instagram,linux,apple,bash,windows)](https://skillicons.dev)
 
 ## 🌱 Want to learn
 [![My Skills](https://skillicons.dev/icons?i=figma,c,rust,kali,py,redux,regex,tailwind,ts)](https://skillicons.dev)
