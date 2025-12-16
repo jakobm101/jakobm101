@@ -26,7 +26,7 @@ He/Him
 [![My Skills](https://skillicons.dev/icons?i=pnpm,nextjs,react,js,html,css,apple,bash,git,github,gmail,instagram,linux,md,vscode,windows)](https://skillicons.dev)
 
 ## 🌱 Want to learn
-[![My Skills](https://skillicons.dev/icons?i=figma,c,c++,rust,kali,notion,py,redux,regex,tailwind,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,c,cplusplus,rust,kali,notion,py,redux,regex,tailwind,ts)](https://skillicons.dev)
 
 # 💌 Say hello!
 **Hit me up via mail**  
